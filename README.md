@@ -133,7 +133,7 @@ Run the scripts in the `ekc/` folder in the following order:
 @article{michael2025beyond,
   title   = {Beyond Scale Effects: Agricultural Emission Drivers, Decoupling Dynamics, and Environmental Kuznets Curve Evidence in Nigeria},
   author  = {Michael, Taiwo Adedeji and Olamide, Qudus Oladeji and Oludayo, Adeyeye Daniel},
-  year    = {2025},
+  year    = {2026},
   doi     = {10.2139/ssrn.6640038},
   note    = {Preprint available at https://dx.doi.org/10.2139/ssrn.6640038}
 }
