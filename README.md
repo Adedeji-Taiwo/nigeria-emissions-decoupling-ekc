@@ -65,7 +65,7 @@ The LMDI and Tapio calculations are provided in Excel, while the EKC analysis is
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Adedeji-Taiwo/nigeria-agric-emissions.git
+git clone https://github.com/Adedeji-Taiwo/nigeria-emissions-decoupling-ekc.git
 cd nigeria-agric-emissions
 ```
 
