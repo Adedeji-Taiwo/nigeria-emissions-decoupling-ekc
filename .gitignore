@@ -1,0 +1,25 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE & editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Project output folder
+outputs/

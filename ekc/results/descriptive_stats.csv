@@ -1,0 +1,8 @@
+Variable,Obs,Mean,Std_Dev,Min,Max
+Total Agric GHG (MtCO₂e),32,60.3525,13.7365,39.44,85.16
+Agric GHG Per Capita (Mt/Mn People),32,0.4009,0.0166,0.3555,0.4355
+Affluence (AF - kUSD 2015),32,1.9336,0.4364,1.3904,2.5858
+Population (P - Million),32,151.4366,37.626,97.12,218.53
+Emission Intensity (EI - Mt/TWh),32,981.5388,429.3856,457.3438,1626.0924
+Energy Intensity (SI - TWh/Bn USD),32,0.0015,0.0008,0.0004,0.0026
+Sectoral Composition (ST),32,0.199,0.0323,0.1442,0.253
